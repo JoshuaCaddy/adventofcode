@@ -12,7 +12,7 @@ let totalScore = 0
 
 // Day2 part 1
 
-for(let i = 0; i <= data.length; i++){
+for(let i = 0; i < data.length; i++){
   switch(data[i]){
     case ('A X'):
     case ('B X'):
